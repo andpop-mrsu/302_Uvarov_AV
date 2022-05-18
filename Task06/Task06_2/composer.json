@@ -1,16 +1,16 @@
 {
-    "name": "Zavodov/task06_2",
+    "name": "Uvarov/task06_2",
     "autoload": {
         "psr-4": {
-            "Zavodov\\Task062\\": [
+            "Uvarov\\Task062\\": [
                 "src/",
                 "tests/Unit/"
             ]
         }
     },
     "authors": [{
-        "name": "Zavodov",
-        "email": "Zavodov01@mail.ru"
+        "name": "Uvarov",
+        "email": "aleksey-uvarov110901@mail.ru"
     }],
     "require-dev": {
         "phpunit/phpunit": "^9.5",
