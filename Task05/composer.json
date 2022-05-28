@@ -1,8 +1,8 @@
 {
-    "name": "DZavodov/task05",
+    "name": "AUvarov/task05",
     "autoload": {
         "psr-4": {
-            "DZavodov\\Task05\\": [
+            "AUvarov\\Task05\\": [
                 "src/",
                 "tests/Unit/"
             ]
@@ -10,8 +10,8 @@
         "files": ["src/Test.php"]
     },
     "authors": [{
-        "name": "DZavodov",
-        "email": "Zavodov01@mail.ru"
+        "name": "AUvarov",
+        "email": "aleksey-uvarov110901@mail.ru"
     }],
     "require-dev": {
         "phpunit/phpunit": "^9.5",
