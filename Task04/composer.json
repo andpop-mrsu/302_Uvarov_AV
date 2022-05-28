@@ -1,0 +1,18 @@
+{
+    "name": "uvarovav/task04",
+    "autoload": {
+        "psr-4": {
+            "uvarovav\\Task04\\": "src/"
+        },
+        "files": [
+            "src/Test.php", 
+            "src/checkIfBalanced.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "uvarovav"
+        }
+    ],
+    "require": {}
+}
